@@ -1,0 +1,271 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="example.vasilevs.animals_2.CompleteStoryTask_Activity"
+    android:background="@drawable/learn_background">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/rlMenu_height"
+        android:id="@+id/rlMenu">
+
+        <ImageView
+            android:layout_width="@dimen/rlMenu_height"
+            android:layout_height="match_parent"
+            android:id="@+id/IV_GoHomeS"
+            android:src="@drawable/home"
+            android:layout_marginLeft="5dp"
+            android:layout_marginStart="0dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="2dp"
+            android:layout_marginBottom="2dp" />
+
+        <ImageView
+            android:layout_width="@dimen/rlMenu_height"
+            android:layout_height="match_parent"
+            android:id="@+id/IV_SetS"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:src="@drawable/settings_01"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="2dp" />
+
+        <RelativeLayout
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:id="@+id/rlStars"
+            android:background="@drawable/learn_stars_v2"
+            android:layout_alignParentTop="true"
+            android:layout_toLeftOf="@+id/IV_SetS"
+            android:layout_toStartOf="@+id/IV_SetS"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="2dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="225"
+                android:id="@+id/TV_CountStars"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginRight="8dp" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:id="@+id/Layout_lives"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/IV_BackS"
+            android:layout_toEndOf="@+id/IV_BackS"
+            android:layout_marginLeft="8dp">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/IV_LiveStar1"
+                android:layout_weight="1"
+                android:src="@drawable/learn_live_stars_fullives" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/IV_LiveStar2"
+                android:layout_weight="1"
+                android:src="@drawable/learn_live_stars_fullives" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/IV_LiveStar3"
+                android:layout_weight="1"
+                android:src="@drawable/learn_live_stars_fullives" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="@dimen/rlMenu_height"
+            android:layout_height="@dimen/rlMenu_height"
+            android:id="@+id/IV_BackS"
+            android:src="@drawable/back"
+            android:layout_toRightOf="@+id/IV_GoHomeS"
+            android:layout_toEndOf="@+id/IV_GoHomeS"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginBottom="2dp" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/rlMenu"
+        android:background="@drawable/learn_speaking_leftblock">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/rlMenu"
+            android:layout_above="@+id/linearLayout"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginRight="3dp"
+            android:layout_weight="1">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/IV_StoryUnsorted1"
+                android:src="@drawable/learn_stories_firstsnow_obj_hat"
+                android:layout_alignParentTop="true"
+                android:layout_weight="1"
+                android:layout_margin="4dp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/IV_StoryUnsorted2"
+                android:src="@drawable/learn_stories_firstsnow_obj_hat"
+                android:layout_above="@+id/IV_StoryUnsorted3"
+                android:layout_centerHorizontal="true"
+                android:layout_weight="1"
+                android:layout_margin="4dp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/IV_StoryUnsorted3"
+                android:src="@drawable/learn_stories_firstsnow_obj_hat"
+                android:layout_below="@+id/IV_StoryUnsorted1"
+                android:layout_toRightOf="@+id/IV_StoryUnsorted1"
+                android:layout_toEndOf="@+id/IV_StoryUnsorted1"
+                android:layout_weight="1"
+                android:layout_margin="4dp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/IV_StoryUnsorted4"
+                android:src="@drawable/learn_stories_firstsnow_obj_hat"
+                android:layout_below="@+id/IV_StoryUnsorted2"
+                android:layout_toRightOf="@+id/IV_StoryUnsorted2"
+                android:layout_toEndOf="@+id/IV_StoryUnsorted2"
+                android:layout_weight="1"
+                android:layout_margin="4dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/linearLayout"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:id="@+id/rl1"
+                android:background="@drawable/learn_stories_blocks_one"
+                android:layout_marginBottom="0dp"
+                android:layout_weight="1"
+                android:layout_marginRight="2dp">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/IV_StorySorted1"
+                    android:src="@drawable/learn_stories_firstsnow_obj_hat"
+                    android:layout_centerVertical="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_margin="8dp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_alignParentBottom="true"
+                android:layout_toRightOf="@+id/rl1"
+                android:layout_toEndOf="@+id/rl1"
+                android:id="@+id/rl2"
+                android:background="@drawable/learn_stories_blocks_one"
+                android:layout_marginBottom="12dp"
+                android:layout_weight="1"
+                android:layout_marginRight="2dp">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/IV_StorySorted2"
+                    android:src="@drawable/learn_stories_firstsnow_obj_hat"
+                    android:layout_centerVertical="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_margin="8dp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:id="@+id/rl3"
+                android:layout_alignParentBottom="true"
+                android:layout_toRightOf="@+id/rl2"
+                android:layout_toEndOf="@+id/rl2"
+                android:background="@drawable/learn_stories_blocks_one"
+                android:layout_marginBottom="12dp"
+                android:layout_weight="1"
+                android:layout_marginRight="2dp">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/IV_StorySorted3"
+                    android:src="@drawable/learn_stories_firstsnow_obj_hat"
+                    android:layout_centerVertical="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_margin="8dp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:id="@+id/rl4"
+                android:layout_alignParentBottom="true"
+                android:layout_toRightOf="@+id/rl3"
+                android:layout_toEndOf="@+id/rl3"
+                android:background="@drawable/learn_stories_blocks_one"
+                android:layout_marginBottom="12dp"
+                android:layout_weight="1">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:id="@+id/IV_StorySorted4"
+                    android:src="@drawable/learn_stories_firstsnow_obj_hat"
+                    android:layout_centerVertical="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_margin="8dp" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

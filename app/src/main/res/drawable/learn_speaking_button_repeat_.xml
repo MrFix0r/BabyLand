@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:better="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="NewApi"
+    android:viewportWidth="142"
+    better:viewportWidth="142"
+    android:viewportHeight="142"
+    better:viewportHeight="142"
+    android:width="142dp"
+    android:height="142dp">
+    <path
+        android:pathData="M136.8 71.400002A65.599998 65.599998 0 0 1 71.199997 137 65.599998 65.599998 0 0 1 5.5999985 71.400002 65.599998 65.599998 0 0 1 71.199997 5.8000031 65.599998 65.599998 0 0 1 136.8 71.400002Z"
+        better:pathData="M136.8 71.400002A65.599998 65.599998 0 0 1 71.199997 137 65.599998 65.599998 0 0 1 5.5999985 71.400002 65.599998 65.599998 0 0 1 71.199997 5.8000031 65.599998 65.599998 0 0 1 136.8 71.400002Z"
+        android:strokeWidth="10"
+        better:strokeWidth="10"
+        android:fillColor="#baa809"
+        better:fillColor="#baa809"
+        android:strokeColor="#aa9709"
+        better:strokeColor="#aa9709"
+        android:strokeMiterLimit="10"
+        better:strokeMiterLimit="10" />
+    <path
+        android:pathData="M118.8 67.8l-12 1.2c0.1 1.1 0.2 2.3 0.2 3.4 0 18.9 -15.4 34.3 -34.3 34.3l-0.2 -0.1 -0.7 0.2c-0.5 0 -1.8 0 -4.6 -0.4 -2.7 -0.3 -4.2 -0.9 -4.6 -1.1l-0.3 -0.2 -0.8 -0.3C47.7 100 38.4 87 38.4 72.4c0 -8.2 2.9 -16 8 -22.1l4 10L72.7 32.1 37.2 27 41.7 38.2C32 47 26.5 59.3 26.5 72.5c0 19.6 12.4 37.1 30.8 43.7 1.3 0.6 4 1.7 8.6 2.2 2.4 0.3 4.5 0.4 6 0.4 0.5 0 0.9 0 1.3 0 25.4 -0.2 46 -20.9 46 -46.3 -0.1 -1.6 -0.2 -3.1 -0.4 -4.7z"
+        better:pathData="M118.8 67.8l-12 1.2c0.1 1.1 0.2 2.3 0.2 3.4 0 18.9 -15.4 34.3 -34.3 34.3l-0.2 -0.1 -0.7 0.2c-0.5 0 -1.8 0 -4.6 -0.4 -2.7 -0.3 -4.2 -0.9 -4.6 -1.1l-0.3 -0.2 -0.8 -0.3C47.7 100 38.4 87 38.4 72.4c0 -8.2 2.9 -16 8 -22.1l4 10L72.7 32.1 37.2 27 41.7 38.2C32 47 26.5 59.3 26.5 72.5c0 19.6 12.4 37.1 30.8 43.7 1.3 0.6 4 1.7 8.6 2.2 2.4 0.3 4.5 0.4 6 0.4 0.5 0 0.9 0 1.3 0 25.4 -0.2 46 -20.9 46 -46.3 -0.1 -1.6 -0.2 -3.1 -0.4 -4.7z"
+        android:strokeWidth="5"
+        better:strokeWidth="5"
+        android:fillColor="#59afc6"
+        better:fillColor="#59afc6"
+        android:strokeColor="#fff800"
+        better:strokeColor="#fff800"
+        android:strokeMiterLimit="10"
+        better:strokeMiterLimit="10" />
+</vector>

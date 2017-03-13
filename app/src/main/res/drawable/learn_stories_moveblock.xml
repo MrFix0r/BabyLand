@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:better="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="NewApi"
+    android:viewportWidth="1790.3"
+    better:viewportWidth="1790.3"
+    android:viewportHeight="876.2"
+    better:viewportHeight="876.2"
+    android:width="1790.3dp"
+    android:height="876.2dp">
+    <path
+        android:pathData="M1742.1 865.4l-1694.3 0c-20.4 0 -37 -16.6 -37 -37l0 -780.1c0 -20.4 16.6 -37 37 -37l1694.3 0c20.4 0 37 16.6 37 37l0 780.2c0 20.3 -16.6 36.9 -37 36.9z"
+        better:pathData="M1742.1 865.4l-1694.3 0c-20.4 0 -37 -16.6 -37 -37l0 -780.1c0 -20.4 16.6 -37 37 -37l1694.3 0c20.4 0 37 16.6 37 37l0 780.2c0 20.3 -16.6 36.9 -37 36.9z"
+        android:strokeWidth="22"
+        better:strokeWidth="22"
+        android:fillColor="#59afc6"
+        better:fillColor="#59afc6"
+        android:strokeColor="#105066"
+        better:strokeColor="#105066"
+        android:strokeMiterLimit="10"
+        better:strokeMiterLimit="10" />
+    <path
+        android:pathData="M75.900002 566.70001l370.799988 0 0 12.1 -370.799988 0z"
+        better:pathData="M75.900002 566.70001l370.799988 0 0 12.1 -370.799988 0z"
+        android:fillColor="#808010"
+        better:fillColor="#808010" />
+    <group>
+        <clip-path
+            android:pathData="M447.8 567.6l0 12.1c0 -0.5 -0.5 -1 -1 -1l0 -12.1c0.5 0.1 1 0.5 1 1z"
+            better:pathData="M447.8 567.6l0 12.1c0 -0.5 -0.5 -1 -1 -1l0 -12.1c0.5 0.1 1 0.5 1 1z" />
+        <path
+            android:pathData="M447.8 567.6l0 12.1c0 -0.5 -0.5 -1 -1 -1l0 -12.1c0.5 0.1 1 0.5 1 1"
+            better:pathData="M447.8 567.6l0 12.1c0 -0.5 -0.5 -1 -1 -1l0 -12.1c0.5 0.1 1 0.5 1 1"
+            android:fillColor="#858510"
+            better:fillColor="#858510" />
+    </group>
+    <group>
+        <clip-path
+            android:pathData="M75.9 566.7l0 12.1c-0.5 0 -1 0.5 -1 1l0 -12.1c0 -0.6 0.5 -1 1 -1z"
+            better:pathData="M75.9 566.7l0 12.1c-0.5 0 -1 0.5 -1 1l0 -12.1c0 -0.6 0.5 -1 1 -1z" />
+        <path
+            android:pathData="M75.9 566.7l0 12.1c-0.3 0 -0.5 0.1 -0.7 0.3l0 -12.1c0.2 -0.2 0.5 -0.3 0.7 -0.3"
+            better:pathData="M75.9 566.7l0 12.1c-0.3 0 -0.5 0.1 -0.7 0.3l0 -12.1c0.2 -0.2 0.5 -0.3 0.7 -0.3"
+            android:fillColor="#858510"
+            better:fillColor="#858510" />
+        <path
+            android:pathData="M75.2 567l0 12.1c-0.1 0.1 -0.1 0.1 -0.2 0.2l0 -12.1c0.1 -0.1 0.2 -0.2 0.2 -0.2"
+            better:pathData="M75.2 567l0 12.1c-0.1 0.1 -0.1 0.1 -0.2 0.2l0 -12.1c0.1 -0.1 0.2 -0.2 0.2 -0.2"
+            android:fillColor="#8a8a11"
+            better:fillColor="#8a8a11" />
+        <path
+            android:pathData="M75.1 567.2l0 12.1c0 0.1 -0.1 0.1 -0.1 0.2l0 -12.1c0 -0.1 0 -0.2 0.1 -0.2"
+            better:pathData="M75.1 567.2l0 12.1c0 0.1 -0.1 0.1 -0.1 0.2l0 -12.1c0 -0.1 0 -0.2 0.1 -0.2"
+            android:fillColor="#8f8f11"
+            better:fillColor="#8f8f11" />
+        <path
+            android:pathData="M75 567.4l0 12.1c0 0.1 0 0.2 0 0.2l0 -12.1c-0.1 -0.1 0 -0.1 0 -0.2"
+            better:pathData="M75 567.4l0 12.1c0 0.1 0 0.2 0 0.2l0 -12.1c-0.1 -0.1 0 -0.1 0 -0.2"
+            android:fillColor="#949412"
+            better:fillColor="#949412" />
+    </group>
+    <group>
+        <clip-path
+            android:pathData="M75.9 792.4l0 12.1c-0.5 0 -1 -0.5 -1 -1l0 -12.1c0 0.5 0.5 1 1 1z"
+            better:pathData="M75.9 792.4l0 12.1c-0.5 0 -1 -0.5 -1 -1l0 -12.1c0 0.5 0.5 1 1 1z" />
+        <path
+            android:pathData="M75.9 792.4l0 12.1c-0.5 0 -1 -0.5 -1 -1l0 -12.1c0 0.5 0.5 1 1 1"
+            better:pathData="M75.9 792.4l0 12.1c-0.5 0 -1 -0.5 -1 -1l0 -12.1c0 0.5 0.5 1 1 1"
+            android:fillColor="#082a35"
+            better:fillColor="#082a35" />
+    </group>
+    <path
+        android:pathData="M75.900002 792.40002l370.799988 0 0 12.1 -370.799988 0z"
+        better:pathData="M75.900002 792.40002l370.799988 0 0 12.1 -370.799988 0z"
+        android:fillColor="#082833"
+        better:fillColor="#082833" />
+    <group>
+        <clip-path
+            android:pathData="M447.8 791.4l0 12.1c0 0.5 -0.5 1 -1 1l0 -12.1c0.5 0 1 -0.5 1 -1z"
+            better:pathData="M447.8 791.4l0 12.1c0 0.5 -0.5 1 -1 1l0 -12.1c0.5 0 1 -0.5 1 -1z" />
+        <path
+            android:pathData="M447.8 791.4l0 12.1c0 0.1 0 0.2 0 0.2l0 -12.1c0 -0.1 0 -0.1 0 -0.2"
+            better:pathData="M447.8 791.4l0 12.1c0 0.1 0 0.2 0 0.2l0 -12.1c0 -0.1 0 -0.1 0 -0.2"
+            android:fillColor="#092e3b"
+            better:fillColor="#092e3b" />
+        <path
+            android:pathData="M447.7 791.6l0 12.1c0 0.1 -0.1 0.1 -0.1 0.2l0 -12.1c0.1 0 0.1 -0.1 0.1 -0.2"
+            better:pathData="M447.7 791.6l0 12.1c0 0.1 -0.1 0.1 -0.1 0.2l0 -12.1c0.1 0 0.1 -0.1 0.1 -0.2"
+            android:fillColor="#092d39"
+            better:fillColor="#092d39" />
+        <path
+            android:pathData="M447.6 791.8l0 12.1c0 0.1 -0.1 0.1 -0.2 0.2l0 -12.1c0.1 0 0.2 -0.1 0.2 -0.2"
+            better:pathData="M447.6 791.8l0 12.1c0 0.1 -0.1 0.1 -0.2 0.2l0 -12.1c0.1 0 0.2 -0.1 0.2 -0.2"
+            android:fillColor="#092b37"
+            better:fillColor="#092b37" />
+        <path
+            android:pathData="M447.5 792.1l0 12.1c-0.2 0.2 -0.4 0.3 -0.7 0.3l0 -12.1c0.2 0 0.5 -0.2 0.7 -0.3"
+            better:pathData="M447.5 792.1l0 12.1c-0.2 0.2 -0.4 0.3 -0.7 0.3l0 -12.1c0.2 0 0.5 -0.2 0.7 -0.3"
+            android:fillColor="#082a35"
+            better:fillColor="#082a35" />
+    </group>
+    <path
+        android:pathData="M446.8 545.3c12.7 0 23 10 23 22.3l0 223.8c0 12.3 -10.3 22.3 -23 22.3l-370.9 0c-12.7 0 -23 -10 -23 -22.3l0 -223.8c0 -12.3 10.3 -22.3 23 -22.3l370.9 0zm1 246.1l0 -223.8c0 -0.5 -0.5 -1 -1 -1l-370.9 0c-0.5 0 -1 0.5 -1 1l0 223.8c0 0.5 0.5 1 1 1l370.8 0c0.6 0 1.1 -0.5 1.1 -1"
+        better:pathData="M446.8 545.3c12.7 0 23 10 23 22.3l0 223.8c0 12.3 -10.3 22.3 -23 22.3l-370.9 0c-12.7 0 -23 -10 -23 -22.3l0 -223.8c0 -12.3 10.3 -22.3 23 -22.3l370.9 0zm1 246.1l0 -223.8c0 -0.5 -0.5 -1 -1 -1l-370.9 0c-0.5 0 -1 0.5 -1 1l0 223.8c0 0.5 0.5 1 1 1l370.8 0c0.6 0 1.1 -0.5 1.1 -1"
+        android:fillColor="#e7e71c"
+        better:fillColor="#e7e71c" />
+    <path
+        android:pathData="M446.8 566.7c0.5 0 1 0.5 1 1l0 223.8c0 0.5 -0.5 1 -1 1l-370.9 0c-0.5 0 -1 -0.5 -1 -1l0 -223.9c0 -0.5 0.5 -1 1 -1l370.9 0z"
+        better:pathData="M446.8 566.7c0.5 0 1 0.5 1 1l0 223.8c0 0.5 -0.5 1 -1 1l-370.9 0c-0.5 0 -1 -0.5 -1 -1l0 -223.9c0 -0.5 0.5 -1 1 -1l370.9 0z"
+        android:fillColor="#0e485c"
+        better:fillColor="#0e485c" />
+    <path
+        android:pathData="M75.900002 813.70001l370.799988 0 0 12.1 -370.799988 0z"
+        better:pathData="M75.900002 813.70001l370.799988 0 0 12.1 -370.799988 0z"
+        android:fillColor="#808010"
+        better:fillColor="#808010" />
+    <group>
+        <clip-path
+            android:pathData="M469.8 791.4l0 12.1c0 12.3 -10.3 22.3 -23 22.3l0 -12.1c12.7 0 23 -10 23 -22.3z"
+            better:pathData="M469.8 791.4l0 12.1c0 12.3 -10.3 22.3 -23 22.3l0 -12.1c12.7 0 23 -10 23 -22.3z" />
+        <path
+            android:pathData="M469.8 791.4l0 12.1c0 2.1 -0.3 4.2 -0.9 6.1l0 -12.1c0.6 -2 0.9 -4 0.9 -6.1"
+            better:pathData="M469.8 791.4l0 12.1c0 2.1 -0.3 4.2 -0.9 6.1l0 -12.1c0.6 -2 0.9 -4 0.9 -6.1"
+            android:fillColor="#949412"
+            better:fillColor="#949412" />
+        <path
+            android:pathData="M468.9 797.5l0 12.1c-0.5 1.8 -1.3 3.5 -2.2 5l0 -12.1c0.9 -1.6 1.7 -3.2 2.2 -5"
+            better:pathData="M468.9 797.5l0 12.1c-0.5 1.8 -1.3 3.5 -2.2 5l0 -12.1c0.9 -1.6 1.7 -3.2 2.2 -5"
+            android:fillColor="#8f8f11"
+            better:fillColor="#8f8f11" />
+        <path
+            android:pathData="M466.7 802.5l0 12.1c-1 1.6 -2.2 3.1 -3.5 4.5l0 -12.1c1.3 -1.3 2.5 -2.9 3.5 -4.5"
+            better:pathData="M466.7 802.5l0 12.1c-1 1.6 -2.2 3.1 -3.5 4.5l0 -12.1c1.3 -1.3 2.5 -2.9 3.5 -4.5"
+            android:fillColor="#8a8a11"
+            better:fillColor="#8a8a11" />
+        <path
+            android:pathData="M463.2 807l0 12.1c-4.2 4.1 -10 6.7 -16.4 6.7l0 -12.1c6.4 0 12.2 -2.6 16.4 -6.7"
+            better:pathData="M463.2 807l0 12.1c-4.2 4.1 -10 6.7 -16.4 6.7l0 -12.1c6.4 0 12.2 -2.6 16.4 -6.7"
+            android:fillColor="#858510"
+            better:fillColor="#858510" />
+    </group>
+    <group>
+        <clip-path
+            android:pathData="M75.9 813.7l0 12.1c-12.7 0 -23 -10 -23 -22.3l0 -12.1c0 12.3 10.4 22.3 23 22.3z"
+            better:pathData="M75.9 813.7l0 12.1c-12.7 0 -23 -10 -23 -22.3l0 -12.1c0 12.3 10.4 22.3 23 22.3z" />
+        <path
+            android:pathData="M75.9 813.7l0 12.1c-12.7 0 -23 -10 -23 -22.3l0 -12.1c0 12.3 10.4 22.3 23 22.3"
+            better:pathData="M75.9 813.7l0 12.1c-12.7 0 -23 -10 -23 -22.3l0 -12.1c0 12.3 10.4 22.3 23 22.3"
+            android:fillColor="#858510"
+            better:fillColor="#858510" />
+    </group>
+    <path
+        android:pathData="M497.29999 569.29999l370.79999 0 0 12.1 -370.79999 0z"
+        better:pathData="M497.29999 569.29999l370.79999 0 0 12.1 -370.79999 0z"
+        android:fillColor="#808010"
+        better:fillColor="#808010" />
+    <group>
+        <clip-path
+            android:pathData="M869.1 570.3l0 12.1c0 -0.5 -0.5 -1 -1 -1l0 -12.1c0.5 0 1 0.5 1 1z"
+            better:pathData="M869.1 570.3l0 12.1c0 -0.5 -0.5 -1 -1 -1l0 -12.1c0.5 0 1 0.5 1 1z" />
+        <path
+            android:pathData="M869.1 570.3l0 12.1c0 -0.5 -0.5 -1 -1 -1l0 -12.1c0.5 0 1 0.5 1 1"
+            better:pathData="M869.1 570.3l0 12.1c0 -0.5 -0.5 -1 -1 -1l0 -12.1c0.5 0 1 0.5 1 1"
+            android:fillColor="#858510"
+            better:fillColor="#858510" />
+    </group>
+    <group>
+        <clip-path
+            android:pathData="M497.3 569.3l0 12.1c-0.5 0 -1 0.5 -1 1l0 -12.1c0 -0.5 0.4 -1 1 -1z"
+            better:pathData="M497.3 569.3l0 12.1c-0.5 0 -1 0.5 -1 1l0 -12.1c0 -0.5 0.4 -1 1 -1z" />
+        <path
+            android:pathData="M497.3 569.3l0 12.1c-0.3 0 -0.5 0.1 -0.7 0.3l0 -12.1c0.1 -0.2 0.4 -0.3 0.7 -0.3"
+            better:pathData="M497.3 569.3l0 12.1c-0.3 0 -0.5 0.1 -0.7 0.3l0 -12.1c0.1 -0.2 0.4 -0.3 0.7 -0.3"
+            android:fillColor="#858510"
+            better:fillColor="#858510" />
+        <path
+            android:pathData="M496.5 569.6l0 12.1c-0.1 0.1 -0.1 0.1 -0.2 0.2l0 -12.1c0.1 0 0.2 -0.1 0.2 -0.2"
+            better:pathData="M496.5 569.6l0 12.1c-0.1 0.1 -0.1 0.1 -0.2 0.2l0 -12.1c0.1 0 0.2 -0.1 0.2 -0.2"
+            android:fillColor="#8a8a11"
+            better:fillColor="#8a8a11" />
+        <path
+            android:pathData="M496.4 569.8l0 12.1c0 0.1 -0.1 0.1 -0.1 0.2l0 -12.1c0 0 0 -0.1 0.1 -0.2"
+            better:pathData="M496.4 569.8l0 12.1c0 0.1 -0.1 0.1 -0.1 0.2l0 -12.1c0 0 0 -0.1 0.1 -0.2"
+            android:fillColor="#8f8f11"
+            better:fillColor="#8f8f11" />
+        <path
+            android:pathData="M496.3 570.1l0 12.1c0 0.1 0 0.2 0 0.2l0 -12.1c0 -0.1 0 -0.2 0 -0.2"
+            better:pathData="M496.3 570.1l0 12.1c0 0.1 0 0.2 0 0.2l0 -12.1c0 -0.1 0 -0.2 0 -0.2"
+            android:fillColor="#949412"
+            better:fillColor="#949412" />
+    </group>
+    <group>
+        <clip-path
+            android:pathData="M496.6 806.8c-0.2 -0.2 -0.3 -0.4 -0.3 -0.7l0 -12.1c0 0.2 0.1 0.5 0.3 0.7 0 0.2 0 0.5 0 0.7 0 0.2 0 0.5 0 0.8 0 0.2 0 0.6 0 0.8 0 0.2 0 0.6 0 0.8 0 0.2 0 0.6 0 0.8 0 0.2 0 0.6 0 0.8 0 0.2 0 0.5 0 0.8 0 0.2 0 0.5 0 0.7 0 0.2 0 0.5 0 0.7 0 0.2 0 0.5 0 0.7 0 0.2 0 0.5 0 0.8 0 0.2 0 0.5 0 0.8 0 0.2 0 0.5 0 0.8 0 0.2 0 0.5 0 0.8 0 0.2 0 0.5 0 0.7 0 0.1 0 0.4 0 0.6z"
+            better:pathData="M496.6 806.8c-0.2 -0.2 -0.3 -0.4 -0.3 -0.7l0 -12.1c0 0.2 0.1 0.5 0.3 0.7 0 0.2 0 0.5 0 0.7 0 0.2 0 0.5 0 0.8 0 0.2 0 0.6 0 0.8 0 0.2 0 0.6 0 0.8 0 0.2 0 0.6 0 0.8 0 0.2 0 0.6 0 0.8 0 0.2 0 0.5 0 0.8 0 0.2 0 0.5 0 0.7 0 0.2 0 0.5 0 0.7 0 0.2 0 0.5 0 0.7 0 0.2 0 0.5 0 0.8 0 0.2 0 0.5 0 0.8 0 0.2 0 0.5 0 0.8 0 0.2 0 0.5 0 0.8 0 0.2 0 0.5 0 0.7 0 0.1 0 0.4 0 0.6z" />
+        <path
+            android:pathData="M497.3 795l0 12.1c-0.5 0 -1 -0.5 -1 -1l0 -12.1c0 0.6 0.4 1 1 1"
+            better:pathData="M497.3 795l0 12.1c-0.5 0 -1 -0.5 -1 -1l0 -12.1c0 0.6 0.4 1 1 1"
+            android:fillColor="#082a35"
+            better:fillColor="#082a35" />
+    </group>
+    <group>
+        <clip-path
+            android:pathData="M496.6 806.8c0 -0.2 0 -0.5 0 -0.7 0 -0.2 0 -0.5 0 -0.7 0 -0.2 0 -0.5 0 -0.8 0 -0.2 0 -0.5 0 -0.8 0 -0.2 0 -0.5 0 -0.8 0 -0.2 0 -0.5 0 -0.8 0 -0.2 0 -0.5 0 -0.7 0 -0.2 0 -0.5 0 -0.7 0 -0.2 0 -0.5 0 -0.7 0 -0.2 0 -0.5 0 -0.8 0 -0.2 0 -0.6 0 -0.8 0 -0.2 0 -0.6 0 -0.8 0 -0.2 0 -0.6 0 -0.8 0 -0.2 0 -0.6 0 -0.8 0 -0.2 0 -0.5 0 -0.8 0 -0.2 0 -0.5 0 -0.7 0.2 0.2 0.4 0.3 0.7 0.3l0 12.1c-0.3 0.1 -0.6 0 -0.7 -0.2z"
+            better:pathData="M496.6 806.8c0 -0.2 0 -0.5 0 -0.7 0 -0.2 0 -0.5 0 -0.7 0 -0.2 0 -0.5 0 -0.8 0 -0.2 0 -0.5 0 -0.8 0 -0.2 0 -0.5 0 -0.8 0 -0.2 0 -0.5 0 -0.8 0 -0.2 0 -0.5 0 -0.7 0 -0.2 0 -0.5 0 -0.7 0 -0.2 0 -0.5 0 -0.7 0 -0.2 0 -0.5 0 -0.8 0 -0.2 0 -0.6 0 -0.8 0 -0.2 0 -0.6 0 -0.8 0 -0.2 0 -0.6 0 -0.8 0 -0.2 0 -0.6 0 -0.8 0 -0.2 0 -0.5 0 -0.8 0 -0.2 0 -0.5 0 -0.7 0.2 0.2 0.4 0.3 0.7 0.3l0 12.1c-0.3 0.1 -0.6 0 -0.7 -0.2z" />
+        <path
+            android:pathData="M497.3 795l0 12.1c-0.5 0 -1 -0.5 -1 -1l0 -12.1c0 0.6 0.4 1 1 1"
+            better:pathData="M497.3 795l0 12.1c-0.5 0 -1 -0.5 -1 -1l0 -12.1c0 0.6 0.4 1 1 1"
+            android:fillColor="#082a35"
+            better:fillColor="#082a35" />
+    </group>
+    <path
+        android:pathData="M868.1 569.3c0.5 0 1 0.5 1 1l0 223.7c0 0.5 -0.5 1 -1 1l-370.8 0c-0.5 0 -1 -0.5 -1 -1l0 -223.7c0 -0.5 0.5 -1 1 -1l370.8 0z"
+        better:pathData="M868.1 569.3c0.5 0 1 0.5 1 1l0 223.7c0 0.5 -0.5 1 -1 1l-370.8 0c-0.5 0 -1 -0.5 -1 -1l0 -223.7c0 -0.5 0.5 -1 1 -1l370.8 0z"
+        android:fillColor="#0e485c"
+        better:fillColor="#0e485c" />
+    <path
+        android:pathData="M497.29999 795l370.79999 0 0 12.1 -370.79999 0z"
+        better:pathData="M497.29999 795l370.79999 0 0 12.1 -370.79999 0z"
+        android:fillColor="#082833"
+        better:fillColor="#082833" />
+    <group>
+        <clip-path
+            android:pathData="M869.1 794l0 12.1c0 0.5 -0.5 1 -1 1l0 -12.1c0.5 0 1 -0.4 1 -1z"
+            better:pathData="M869.1 794l0 12.1c0 0.5 -0.5 1 -1 1l0 -12.1c0.5 0 1 -0.4 1 -1z" />
+        <path
+            android:pathData="M869.1 794l0 12.1c0 0.1 0 0.2 0 0.2l0 -12.1c0 0 0 -0.1 0 -0.2"
+            better:pathData="M869.1 794l0 12.1c0 0.1 0 0.2 0 0.2l0 -12.1c0 0 0 -0.1 0 -0.2"
+            android:fillColor="#092e3b"
+            better:fillColor="#092e3b" />
+        <path
+            android:pathData="M869 794.3l0 12.1c0 0.1 -0.1 0.1 -0.1 0.2l0 -12.1c0.1 -0.1 0.1 -0.1 0.1 -0.2"
+            better:pathData="M869 794.3l0 12.1c0 0.1 -0.1 0.1 -0.1 0.2l0 -12.1c0.1 -0.1 0.1 -0.1 0.1 -0.2"
+            android:fillColor="#092d39"
+            better:fillColor="#092d39" />
+        <path
+            android:pathData="M868.9 794.5l0 12.1c0 0.1 -0.1 0.1 -0.2 0.2l0 -12.1c0.1 0 0.2 -0.1 0.2 -0.2"
+            better:pathData="M868.9 794.5l0 12.1c0 0.1 -0.1 0.1 -0.2 0.2l0 -12.1c0.1 0 0.2 -0.1 0.2 -0.2"
+            android:fillColor="#092b37"
+            better:fillColor="#092b37" />
+        <path
+            android:pathData="M868.8 794.7l0 12.1c-0.2 0.2 -0.4 0.3 -0.7 0.3l0 -12.1c0.2 0 0.5 -0.1 0.7 -0.3"
+            better:pathData="M868.8 794.7l0 12.1c-0.2 0.2 -0.4 0.3 -0.7 0.3l0 -12.1c0.2 0 0.5 -0.1 0.7 -0.3"
+            android:fillColor="#082a35"
+            better:fillColor="#082a35" />
+    </group>
+    <path
+        android:pathData="M497.29999 816.40002l370.79999 0 0 12.1 -370.79999 0z"
+        better:pathData="M497.29999 816.40002l370.79999 0 0 12.1 -370.79999 0z"
+        android:fillColor="#808010"
+        better:fillColor="#808010" />
+    <path
+        android:pathData="M868.1 548c12.7 0 23 10 23 22.3l0 223.7c0 12.3 -10.3 22.3 -23 22.3l-370.8 0c-12.7 0 -23 -10 -23 -22.3l0 -223.7c0 -12.3 10.3 -22.3 23 -22.3l370.8 0zm1 246l0 -223.7c0 -0.5 -0.5 -1 -1 -1l-370.8 0c-0.5 0 -1 0.5 -1 1l0 223.7c0 0.5 0.5 1 1 1l370.8 0c0.5 0 1 -0.4 1 -1"
+        better:pathData="M868.1 548c12.7 0 23 10 23 22.3l0 223.7c0 12.3 -10.3 22.3 -23 22.3l-370.8 0c-12.7 0 -23 -10 -23 -22.3l0 -223.7c0 -12.3 10.3 -22.3 23 -22.3l370.8 0zm1 246l0 -223.7c0 -0.5 -0.5 -1 -1 -1l-370.8 0c-0.5 0 -1 0.5 -1 1l0 223.7c0 0.5 0.5 1 1 1l370.8 0c0.5 0 1 -0.4 1 -1"
+        android:fillColor="#e7e71c"
+        better:fillColor="#e7e71c" />
+    <group>
+        <clip-path
+            android:pathData="M891.1 794l0 12.1c0 12.3 -10.3 22.3 -23 22.3l0 -12.1c12.7 0.1 23 -9.9 23 -22.3z"
+            better:pathData="M891.1 794l0 12.1c0 12.3 -10.3 22.3 -23 22.3l0 -12.1c12.7 0.1 23 -9.9 23 -22.3z" />
+        <path
+            android:pathData="M891.1 794l0 12.1c0 2.1 -0.3 4.2 -0.9 6.1l0 -12.1c0.6 -1.9 0.9 -3.9 0.9 -6.1"
+            better:pathData="M891.1 794l0 12.1c0 2.1 -0.3 4.2 -0.9 6.1l0 -12.1c0.6 -1.9 0.9 -3.9 0.9 -6.1"
+            android:fillColor="#949412"
+            better:fillColor="#949412" />
+        <path
+            android:pathData="M890.2 800.2l0 12.1c-0.5 1.8 -1.3 3.5 -2.2 5l0 -12.1c0.9 -1.6 1.7 -3.3 2.2 -5"
+            better:pathData="M890.2 800.2l0 12.1c-0.5 1.8 -1.3 3.5 -2.2 5l0 -12.1c0.9 -1.6 1.7 -3.3 2.2 -5"
+            android:fillColor="#8f8f11"
+            better:fillColor="#8f8f11" />
+        <path
+            android:pathData="M888 805.2l0 12.1c-1 1.6 -2.2 3.2 -3.5 4.5l0 -12.1c1.4 -1.4 2.5 -2.9 3.5 -4.5"
+            better:pathData="M888 805.2l0 12.1c-1 1.6 -2.2 3.2 -3.5 4.5l0 -12.1c1.4 -1.4 2.5 -2.9 3.5 -4.5"
+            android:fillColor="#8a8a11"
+            better:fillColor="#8a8a11" />
+        <path
+            android:pathData="M884.5 809.7l0 12.1c-4.2 4.1 -10 6.7 -16.4 6.7l0 -12.1c6.4 0 12.2 -2.6 16.4 -6.7"
+            better:pathData="M884.5 809.7l0 12.1c-4.2 4.1 -10 6.7 -16.4 6.7l0 -12.1c6.4 0 12.2 -2.6 16.4 -6.7"
+            android:fillColor="#858510"
+            better:fillColor="#858510" />
+    </group>
+    <group>
+        <clip-path
+            android:pathData="M497.3 816.4l0 12.1c-12.7 0 -23 -10 -23 -22.3l0 -12.2c0 12.4 10.3 22.4 23 22.4z"
+            better:pathData="M497.3 816.4l0 12.1c-12.7 0 -23 -10 -23 -22.3l0 -12.2c0 12.4 10.3 22.4 23 22.4z" />
+        <path
+            android:pathData="M497.3 816.4l0 12.1c-12.7 0 -23 -10 -23 -22.3l0 -12.2c0 12.4 10.3 22.4 23 22.4"
+            better:pathData="M497.3 816.4l0 12.1c-12.7 0 -23 -10 -23 -22.3l0 -12.2c0 12.4 10.3 22.4 23 22.4"
+            android:fillColor="#858510"
+            better:fillColor="#858510" />
+    </group>
+    <path
+        android:pathData="M918.70001 569.79999l370.79999 0 0 12.1 -370.79999 0z"
+        better:pathData="M918.70001 569.79999l370.79999 0 0 12.1 -370.79999 0z"
+        android:fillColor="#808010"
+        better:fillColor="#808010" />
+    <group>
+        <clip-path
+            android:pathData="M1290.5 570.8l0 12.1c0 -0.5 -0.5 -1 -1 -1l0 -12.1c0.5 0 1 0.5 1 1z"
+            better:pathData="M1290.5 570.8l0 12.1c0 -0.5 -0.5 -1 -1 -1l0 -12.1c0.5 0 1 0.5 1 1z" />
+        <path
+            android:pathData="M1290.5 570.8l0 12.1c0 -0.5 -0.5 -1 -1 -1l0 -12.1c0.5 0 1 0.5 1 1"
+            better:pathData="M1290.5 570.8l0 12.1c0 -0.5 -0.5 -1 -1 -1l0 -12.1c0.5 0 1 0.5 1 1"
+            android:fillColor="#858510"
+            better:fillColor="#858510" />
+    </group>
+    <group>
+        <clip-path
+            android:pathData="M918.7 569.8l0 12.1c-0.5 0 -1 0.5 -1 1l0 -12.1c-0.1 -0.5 0.4 -1 1 -1z"
+            better:pathData="M918.7 569.8l0 12.1c-0.5 0 -1 0.5 -1 1l0 -12.1c-0.1 -0.5 0.4 -1 1 -1z" />
+        <path
+            android:pathData="M918.7 569.8l0 12.1c-0.3 0 -0.5 0.1 -0.7 0.3l0 -12.1c0.1 -0.1 0.4 -0.3 0.7 -0.3"
+            better:pathData="M918.7 569.8l0 12.1c-0.3 0 -0.5 0.1 -0.7 0.3l0 -12.1c0.1 -0.1 0.4 -0.3 0.7 -0.3"
+            android:fillColor="#858510"
+            better:fillColor="#858510" />
+        <path
+            android:pathData="M917.9 570.1l0 12.1c-0.1 0.1 -0.1 0.1 -0.2 0.2l0 -12.1c0.1 0 0.2 -0.1 0.2 -0.2"
+            better:pathData="M917.9 570.1l0 12.1c-0.1 0.1 -0.1 0.1 -0.2 0.2l0 -12.1c0.1 0 0.2 -0.1 0.2 -0.2"
+            android:fillColor="#8a8a11"
+            better:fillColor="#8a8a11" />
+        <path
+            android:pathData="M917.8 570.4l0 12.1c0 0.1 -0.1 0.1 -0.1 0.2l0 -12.1c0 -0.1 0 -0.2 0.1 -0.2"
+            better:pathData="M917.8 570.4l0 12.1c0 0.1 -0.1 0.1 -0.1 0.2l0 -12.1c0 -0.1 0 -0.2 0.1 -0.2"
+            android:fillColor="#8f8f11"
+            better:fillColor="#8f8f11" />
+        <path
+            android:pathData="M917.7 570.6l0 12.1c0 0.1 0 0.2 0 0.2l0 -12.1c-0.1 -0.1 0 -0.1 0 -0.2"
+            better:pathData="M917.7 570.6l0 12.1c0 0.1 0 0.2 0 0.2l0 -12.1c-0.1 -0.1 0 -0.1 0 -0.2"
+            android:fillColor="#949412"
+            better:fillColor="#949412" />
+    </group>
+    <group>
+        <clip-path
+            android:pathData="M918.7 795.5l0 12.1c-0.5 0 -1 -0.5 -1 -1l0 -12.1c-0.1 0.6 0.4 1 1 1z"
+            better:pathData="M918.7 795.5l0 12.1c-0.5 0 -1 -0.5 -1 -1l0 -12.1c-0.1 0.6 0.4 1 1 1z" />
+        <path
+            android:pathData="M918.7 795.5l0 12.1c-0.5 0 -1 -0.5 -1 -1l0 -12.1c-0.1 0.6 0.4 1 1 1"
+            better:pathData="M918.7 795.5l0 12.1c-0.5 0 -1 -0.5 -1 -1l0 -12.1c-0.1 0.6 0.4 1 1 1"
+            android:fillColor="#082a35"
+            better:fillColor="#082a35" />
+    </group>
+    <path
+        android:pathData="M1289.5 569.8c0.5 0 1 0.5 1 1l0 223.7c0 0.5 -0.5 1 -1 1l-370.8 0c-0.5 0 -1 -0.5 -1 -1l0 -223.7c0 -0.5 0.5 -1 1 -1l370.8 0z"
+        better:pathData="M1289.5 569.8c0.5 0 1 0.5 1 1l0 223.7c0 0.5 -0.5 1 -1 1l-370.8 0c-0.5 0 -1 -0.5 -1 -1l0 -223.7c0 -0.5 0.5 -1 1 -1l370.8 0z"
+        android:fillColor="#0e485c"
+        better:fillColor="#0e485c" />
+    <path
+        android:pathData="M918.70001 795.5l370.79999 0 0 12.1 -370.79999 0z"
+        better:pathData="M918.70001 795.5l370.79999 0 0 12.1 -370.79999 0z"
+        android:fillColor="#082833"
+        better:fillColor="#082833" />
+    <group>
+        <clip-path
+            android:pathData="M1290.5 794.6l0 12.1c0 0.5 -0.5 1 -1 1l0 -12.1c0.5 -0.1 1 -0.5 1 -1z"
+            better:pathData="M1290.5 794.6l0 12.1c0 0.5 -0.5 1 -1 1l0 -12.1c0.5 -0.1 1 -0.5 1 -1z" />
+        <path
+            android:pathData="M1290.5 794.6l0 12.1c0 0.1 0 0.2 0 0.2l0 -12.1c0 -0.1 0 -0.1 0 -0.2"
+            better:pathData="M1290.5 794.6l0 12.1c0 0.1 0 0.2 0 0.2l0 -12.1c0 -0.1 0 -0.1 0 -0.2"
+            android:fillColor="#092e3b"
+            better:fillColor="#092e3b" />
+        <path
+            android:pathData="M1290.4 794.8l0 12.1c0 0.1 -0.1 0.1 -0.1 0.2l0 -12.1c0.1 0 0.1 -0.1 0.1 -0.2"
+            better:pathData="M1290.4 794.8l0 12.1c0 0.1 -0.1 0.1 -0.1 0.2l0 -12.1c0.1 0 0.1 -0.1 0.1 -0.2"
+            android:fillColor="#092d39"
+            better:fillColor="#092d39" />
+        <path
+            android:pathData="M1290.3 795l0 12.1c0 0.1 -0.1 0.1 -0.2 0.2l0 -12.1c0.1 0 0.2 -0.1 0.2 -0.2"
+            better:pathData="M1290.3 795l0 12.1c0 0.1 -0.1 0.1 -0.2 0.2l0 -12.1c0.1 0 0.2 -0.1 0.2 -0.2"
+            android:fillColor="#092b37"
+            better:fillColor="#092b37" />
+        <path
+            android:pathData="M1290.2 795.2l0 12.1c-0.2 0.2 -0.4 0.3 -0.7 0.3l0 -12.1c0.2 0 0.5 -0.1 0.7 -0.3"
+            better:pathData="M1290.2 795.2l0 12.1c-0.2 0.2 -0.4 0.3 -0.7 0.3l0 -12.1c0.2 0 0.5 -0.1 0.7 -0.3"
+            android:fillColor="#082a35"
+            better:fillColor="#082a35" />
+    </group>
+    <path
+        android:pathData="M918.70001 816.90002l370.79999 0 0 12.1 -370.79999 0z"
+        better:pathData="M918.70001 816.90002l370.79999 0 0 12.1 -370.79999 0z"
+        android:fillColor="#808010"
+        better:fillColor="#808010" />
+    <path
+        android:pathData="M1289.5 548.5c12.7 0 23 10 23 22.3l0 223.7c0 12.3 -10.3 22.3 -23 22.3l-370.8 0c-12.7 0 -23 -10 -23 -22.3l0 -223.7c0 -12.3 10.3 -22.3 23 -22.3l370.8 0zm1 246.1l0 -223.8c0 -0.5 -0.5 -1 -1 -1l-370.8 0c-0.5 0 -1 0.5 -1 1l0 223.7c0 0.5 0.5 1 1 1l370.8 0c0.5 0 1 -0.4 1 -0.9"
+        better:pathData="M1289.5 548.5c12.7 0 23 10 23 22.3l0 223.7c0 12.3 -10.3 22.3 -23 22.3l-370.8 0c-12.7 0 -23 -10 -23 -22.3l0 -223.7c0 -12.3 10.3 -22.3 23 -22.3l370.8 0zm1 246.1l0 -223.8c0 -0.5 -0.5 -1 -1 -1l-370.8 0c-0.5 0 -1 0.5 -1 1l0 223.7c0 0.5 0.5 1 1 1l370.8 0c0.5 0 1 -0.4 1 -0.9"
+        android:fillColor="#e7e71c"
+        better:fillColor="#e7e71c" />
+    <group>
+        <clip-path
+            android:pathData="M1312.5 794.6l0 12.1c0 12.3 -10.3 22.3 -23 22.3l0 -12.1c12.7 0 23 -10 23 -22.3z"
+            better:pathData="M1312.5 794.6l0 12.1c0 12.3 -10.3 22.3 -23 22.3l0 -12.1c12.7 0 23 -10 23 -22.3z" />
+        <path
+            android:pathData="M1312.5 794.6l0 12.1c0 2.1 -0.3 4.2 -0.9 6.1l0 -12.1c0.6 -2 0.9 -4 0.9 -6.1"
+            better:pathData="M1312.5 794.6l0 12.1c0 2.1 -0.3 4.2 -0.9 6.1l0 -12.1c0.6 -2 0.9 -4 0.9 -6.1"
+            android:fillColor="#949412"
+            better:fillColor="#949412" />
+        <path
+            android:pathData="M1311.6 800.7l0 12.1c-0.5 1.8 -1.3 3.5 -2.2 5l0 -12.1c0.9 -1.6 1.7 -3.3 2.2 -5"
+            better:pathData="M1311.6 800.7l0 12.1c-0.5 1.8 -1.3 3.5 -2.2 5l0 -12.1c0.9 -1.6 1.7 -3.3 2.2 -5"
+            android:fillColor="#8f8f11"
+            better:fillColor="#8f8f11" />
+        <path
+            android:pathData="M1309.4 805.7l0 12.1c-1 1.6 -2.2 3.2 -3.5 4.5l0 -12.1c1.3 -1.4 2.5 -2.9 3.5 -4.5"
+            better:pathData="M1309.4 805.7l0 12.1c-1 1.6 -2.2 3.2 -3.5 4.5l0 -12.1c1.3 -1.4 2.5 -2.9 3.5 -4.5"
+            android:fillColor="#8a8a11"
+            better:fillColor="#8a8a11" />
+        <path
+            android:pathData="M1305.9 810.2l0 12.1c-4.2 4.1 -10 6.7 -16.4 6.7l0 -12.1c6.4 0 12.2 -2.6 16.4 -6.7"
+            better:pathData="M1305.9 810.2l0 12.1c-4.2 4.1 -10 6.7 -16.4 6.7l0 -12.1c6.4 0 12.2 -2.6 16.4 -6.7"
+            android:fillColor="#858510"
+            better:fillColor="#858510" />
+    </group>
+    <group>
+        <clip-path
+            android:pathData="M918.7 816.9l0 12.1c-12.7 0 -23 -10 -23 -22.3l0 -12.1c-0.1 12.3 10.3 22.3 23 22.3z"
+            better:pathData="M918.7 816.9l0 12.1c-12.7 0 -23 -10 -23 -22.3l0 -12.1c-0.1 12.3 10.3 22.3 23 22.3z" />
+        <path
+            android:pathData="M918.7 816.9l0 12.1c-12.7 0 -23 -10 -23 -22.3l0 -12.1c-0.1 12.3 10.3 22.3 23 22.3"
+            better:pathData="M918.7 816.9l0 12.1c-12.7 0 -23 -10 -23 -22.3l0 -12.1c-0.1 12.3 10.3 22.3 23 22.3"
+            android:fillColor="#858510"
+            better:fillColor="#858510" />
+    </group>
+    <path
+        android:pathData="M1340 572.5l370.8 0 0 12.1 -370.8 0z"
+        better:pathData="M1340 572.5l370.8 0 0 12.1 -370.8 0z"
+        android:fillColor="#808010"
+        better:fillColor="#808010" />
+    <group>
+        <clip-path
+            android:pathData="M1711.8 573.5l0 12.1c0 -0.5 -0.5 -1 -1 -1l0 -12.1c0.5 0 1 0.5 1 1z"
+            better:pathData="M1711.8 573.5l0 12.1c0 -0.5 -0.5 -1 -1 -1l0 -12.1c0.5 0 1 0.5 1 1z" />
+        <path
+            android:pathData="M1711.8 573.5l0 12.1c0 -0.5 -0.5 -1 -1 -1l0 -12.1c0.5 0 1 0.5 1 1"
+            better:pathData="M1711.8 573.5l0 12.1c0 -0.5 -0.5 -1 -1 -1l0 -12.1c0.5 0 1 0.5 1 1"
+            android:fillColor="#858510"
+            better:fillColor="#858510" />
+    </group>
+    <group>
+        <clip-path
+            android:pathData="M1340 572.5l0 12.1c-0.5 0 -1 0.5 -1 1l0 -12.1c0 -0.5 0.4 -1 1 -1z"
+            better:pathData="M1340 572.5l0 12.1c-0.5 0 -1 0.5 -1 1l0 -12.1c0 -0.5 0.4 -1 1 -1z" />
+        <path
+            android:pathData="M1340 572.5l0 12.1c-0.3 0 -0.5 0.1 -0.7 0.3l0 -12.1c0.1 -0.2 0.4 -0.3 0.7 -0.3"
+            better:pathData="M1340 572.5l0 12.1c-0.3 0 -0.5 0.1 -0.7 0.3l0 -12.1c0.1 -0.2 0.4 -0.3 0.7 -0.3"
+            android:fillColor="#858510"
+            better:fillColor="#858510" />
+        <path
+            android:pathData="M1339.3 572.8l0 12.1c-0.1 0.1 -0.1 0.1 -0.2 0.2l0 -12.1c0 0 0.1 -0.1 0.2 -0.2"
+            better:pathData="M1339.3 572.8l0 12.1c-0.1 0.1 -0.1 0.1 -0.2 0.2l0 -12.1c0 0 0.1 -0.1 0.2 -0.2"
+            android:fillColor="#8a8a11"
+            better:fillColor="#8a8a11" />
+        <path
+            android:pathData="M1339.1 573l0 12.1c0 0.1 -0.1 0.1 -0.1 0.2l0 -12.1c0 0 0.1 -0.1 0.1 -0.2"
+            better:pathData="M1339.1 573l0 12.1c0 0.1 -0.1 0.1 -0.1 0.2l0 -12.1c0 0 0.1 -0.1 0.1 -0.2"
+            android:fillColor="#8f8f11"
+            better:fillColor="#8f8f11" />
+        <path
+            android:pathData="M1339 573.2l0 12.1c0 0.1 0 0.2 0 0.2l0 -12.1c0 0 0 -0.1 0 -0.2"
+            better:pathData="M1339 573.2l0 12.1c0 0.1 0 0.2 0 0.2l0 -12.1c0 0 0 -0.1 0 -0.2"
+            android:fillColor="#949412"
+            better:fillColor="#949412" />
+    </group>
+    <group>
+        <clip-path
+            android:pathData="M1340 798.2l0 12.1c-0.5 0 -1 -0.5 -1 -1l0 -12.1c0 0.5 0.4 1 1 1z"
+            better:pathData="M1340 798.2l0 12.1c-0.5 0 -1 -0.5 -1 -1l0 -12.1c0 0.5 0.4 1 1 1z" />
+        <path
+            android:pathData="M1340 798.2l0 12.1c-0.5 0 -1 -0.5 -1 -1l0 -12.1c0 0.5 0.4 1 1 1"
+            better:pathData="M1340 798.2l0 12.1c-0.5 0 -1 -0.5 -1 -1l0 -12.1c0 0.5 0.4 1 1 1"
+            android:fillColor="#082a35"
+            better:fillColor="#082a35" />
+    </group>
+    <path
+        android:pathData="M1340 798.20001l370.8 0 0 12.1 -370.8 0z"
+        better:pathData="M1340 798.20001l370.8 0 0 12.1 -370.8 0z"
+        android:fillColor="#082833"
+        better:fillColor="#082833" />
+    <group>
+        <clip-path
+            android:pathData="M1711.8 797.2l0 12.1c0 0.5 -0.5 1 -1 1l0 -12.1c0.5 0 1 -0.5 1 -1z"
+            better:pathData="M1711.8 797.2l0 12.1c0 0.5 -0.5 1 -1 1l0 -12.1c0.5 0 1 -0.5 1 -1z" />
+        <path
+            android:pathData="M1711.8 797.2l0 12.1c0 0.1 0 0.2 0 0.2l0 -12.1c0 0 0 -0.1 0 -0.2"
+            better:pathData="M1711.8 797.2l0 12.1c0 0.1 0 0.2 0 0.2l0 -12.1c0 0 0 -0.1 0 -0.2"
+            android:fillColor="#092e3b"
+            better:fillColor="#092e3b" />
+        <path
+            android:pathData="M1711.8 797.5l0 12.1c0 0.1 -0.1 0.1 -0.1 0.2l0 -12.1c0 -0.1 0 -0.1 0.1 -0.2"
+            better:pathData="M1711.8 797.5l0 12.1c0 0.1 -0.1 0.1 -0.1 0.2l0 -12.1c0 -0.1 0 -0.1 0.1 -0.2"
+            android:fillColor="#092d39"
+            better:fillColor="#092d39" />
+        <path
+            android:pathData="M1711.7 797.7l0 12.1c0 0.1 -0.1 0.1 -0.2 0.2l0 -12.1c0.1 -0.1 0.1 -0.1 0.2 -0.2"
+            better:pathData="M1711.7 797.7l0 12.1c0 0.1 -0.1 0.1 -0.2 0.2l0 -12.1c0.1 -0.1 0.1 -0.1 0.2 -0.2"
+            android:fillColor="#092b37"
+            better:fillColor="#092b37" />
+        <path
+            android:pathData="M1711.5 797.9l0 12.1c-0.2 0.2 -0.4 0.3 -0.7 0.3l0 -12.1c0.3 0 0.5 -0.1 0.7 -0.3"
+            better:pathData="M1711.5 797.9l0 12.1c-0.2 0.2 -0.4 0.3 -0.7 0.3l0 -12.1c0.3 0 0.5 -0.1 0.7 -0.3"
+            android:fillColor="#082a35"
+            better:fillColor="#082a35" />
+    </group>
+    <path
+        android:pathData="M1710.8 551.2c12.7 0 23 10 23 22.3l0 223.8c0 12.3 -10.3 22.3 -23 22.3l-370.8 0c-12.7 0 -23 -10 -23 -22.3l0 -223.8c0 -12.3 10.3 -22.3 23 -22.3l370.8 0zm1 246l0 -223.7c0 -0.5 -0.5 -1 -1 -1l-370.8 0c-0.5 0 -1 0.5 -1 1l0 223.8c0 0.5 0.5 1 1 1l370.8 0c0.5 -0.1 1 -0.6 1 -1.1"
+        better:pathData="M1710.8 551.2c12.7 0 23 10 23 22.3l0 223.8c0 12.3 -10.3 22.3 -23 22.3l-370.8 0c-12.7 0 -23 -10 -23 -22.3l0 -223.8c0 -12.3 10.3 -22.3 23 -22.3l370.8 0zm1 246l0 -223.7c0 -0.5 -0.5 -1 -1 -1l-370.8 0c-0.5 0 -1 0.5 -1 1l0 223.8c0 0.5 0.5 1 1 1l370.8 0c0.5 -0.1 1 -0.6 1 -1.1"
+        android:fillColor="#e7e71c"
+        better:fillColor="#e7e71c" />
+    <path
+        android:pathData="M1710.8 572.5c0.5 0 1 0.5 1 1l0 223.8c0 0.5 -0.5 1 -1 1l-370.8 0c-0.5 0 -1 -0.5 -1 -1l0 -223.8c0 -0.5 0.5 -1 1 -1l370.8 0z"
+        better:pathData="M1710.8 572.5c0.5 0 1 0.5 1 1l0 223.8c0 0.5 -0.5 1 -1 1l-370.8 0c-0.5 0 -1 -0.5 -1 -1l0 -223.8c0 -0.5 0.5 -1 1 -1l370.8 0z"
+        android:fillColor="#0e485c"
+        better:fillColor="#0e485c" />
+    <path
+        android:pathData="M1340 819.59998l370.8 0 0 12.1 -370.8 0z"
+        better:pathData="M1340 819.59998l370.8 0 0 12.1 -370.8 0z"
+        android:fillColor="#808010"
+        better:fillColor="#808010" />
+    <group>
+        <clip-path
+            android:pathData="M1733.8 797.2l0 12.1c0 12.3 -10.3 22.3 -23 22.3l0 -12.1c12.7 0.1 23 -10 23 -22.3z"
+            better:pathData="M1733.8 797.2l0 12.1c0 12.3 -10.3 22.3 -23 22.3l0 -12.1c12.7 0.1 23 -10 23 -22.3z" />
+        <path
+            android:pathData="M1733.8 797.2l0 12.1c0 2.1 -0.3 4.2 -0.9 6.1l0 -12.1c0.6 -1.9 0.9 -3.9 0.9 -6.1"
+            better:pathData="M1733.8 797.2l0 12.1c0 2.1 -0.3 4.2 -0.9 6.1l0 -12.1c0.6 -1.9 0.9 -3.9 0.9 -6.1"
+            android:fillColor="#949412"
+            better:fillColor="#949412" />
+        <path
+            android:pathData="M1732.9 803.3l0 12.1c-0.5 1.8 -1.3 3.5 -2.2 5l0 -12.1c0.9 -1.5 1.7 -3.2 2.2 -5"
+            better:pathData="M1732.9 803.3l0 12.1c-0.5 1.8 -1.3 3.5 -2.2 5l0 -12.1c0.9 -1.5 1.7 -3.2 2.2 -5"
+            android:fillColor="#8f8f11"
+            better:fillColor="#8f8f11" />
+        <path
+            android:pathData="M1730.7 808.4l0 12.1c-1 1.6 -2.2 3.1 -3.5 4.5l0 -12.1c1.4 -1.4 2.5 -2.9 3.5 -4.5"
+            better:pathData="M1730.7 808.4l0 12.1c-1 1.6 -2.2 3.1 -3.5 4.5l0 -12.1c1.4 -1.4 2.5 -2.9 3.5 -4.5"
+            android:fillColor="#8a8a11"
+            better:fillColor="#8a8a11" />
+        <path
+            android:pathData="M1727.2 812.9l0 12.1c-4.2 4.1 -10 6.7 -16.4 6.7l0 -12.1c6.4 0 12.2 -2.6 16.4 -6.7"
+            better:pathData="M1727.2 812.9l0 12.1c-4.2 4.1 -10 6.7 -16.4 6.7l0 -12.1c6.4 0 12.2 -2.6 16.4 -6.7"
+            android:fillColor="#858510"
+            better:fillColor="#858510" />
+    </group>
+    <group>
+        <clip-path
+            android:pathData="M1340 819.6l0 12.1c-12.7 0 -23 -10 -23 -22.3l0 -12.1c0 12.2 10.3 22.3 23 22.3z"
+            better:pathData="M1340 819.6l0 12.1c-12.7 0 -23 -10 -23 -22.3l0 -12.1c0 12.2 10.3 22.3 23 22.3z" />
+        <path
+            android:pathData="M1340 819.6l0 12.1c-12.7 0 -23 -10 -23 -22.3l0 -12.1c0 12.2 10.3 22.3 23 22.3"
+            better:pathData="M1340 819.6l0 12.1c-12.7 0 -23 -10 -23 -22.3l0 -12.1c0 12.2 10.3 22.3 23 22.3"
+            android:fillColor="#858510"
+            better:fillColor="#858510" />
+    </group>
+</vector>

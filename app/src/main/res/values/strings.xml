@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">BabyLand</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_main_settings">MainSettingsActivity</string>
+
+    <string name="title_activity_game">GameActivity</string>
+
+    <string name="title_activity_study">StudyActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_mainsettingactivity">mainsettingactivity</string>
+    <string name="title_activity_mainsettingsactivity">mainsettingsactivity</string>
+    <string name="title_activity_how_you_sounds_">HowYouSounds_Activity</string>
+    <string name="title_activity_main_menu_">MainMenu_Activity</string>
+    <string name="title_activity_complete_story_">CompleteStory_Activity</string>
+
+    <string name="learn_speaking_string_bear">Ааар</string>
+    <string name="learn_speaking_string_cat">Мяу</string>
+    <string name="learn_speaking_string_cow">Мууу</string>
+    <string name="learn_speaking_string_dog">Гав-гав</string>
+    <string name="learn_speaking_string_duck">Кря-кря</string>
+    <string name="learn_speaking_string_hedgehog">Шнафыв</string>
+    <string name="learn_speaking_string_pig">Хрю-хрю</string>
+    <string name="learn_speaking_string_raven">Каррр</string>
+    <string name="learn_speaking_string_sheep">Бееее</string>
+    <string name="title_activity_complete_story_menu_">CompleteStoryMenu_Activity</string>
+    <string name="title_activity_complete_story_task_">CompleteStoryTask_Activity</string>
+    <color name="red">#f00</color>
+    <color name="blue">#0000ff</color>
+    <color name="green">#f0f0</color>
+
+
+    <string name="title_activity_success">Success_Activity</string>
+    <string name="title_activity_unsuccess">Unsuccess_Activity</string>
+
+
+    <string name="string_hint_story">Я недавно рассказывал своему соседу одну очень\nувлекательную историю, но забыл некоторые детали.\n Сегодня мы решили собраться снова, и, чтобы мне\nподготовиться, помоги мне расставить предметы\nв порядке их появления в истории.\nС тобой я точно не оплошаю!</string>
+    <string name="string_hint_place">Все мои друзья уехали за город на свежий воздух.\nЯ даже и представить не могу, где они будут жить.\nПомоги мне узнать, где могут быть мои друзья.\nВыбери подходящее местечко для каждого.\nТогда, когда они вернуться, я смогу спросить,\nкак они отдохнули
+в родных местах! </string>
+    <string name="string_hint_speaking">Каждый раз, засыпая, я слышу громкие голоса\nмоих соседей по дому. Это так мешает!\nЯ решил найти тех, кто много шумит и поговорить с ними.\nПомоги мне выяснить, кто же это?
+Просто ткни\nна изображение того животного, кому принадлежит звук.</string>
+
+    <string name="string_hint_maze">Наш город так разросся, что мне становиться все
+труднее отыскать свой домик.
+Да еще к тому же и есть хочется.
+Помоги мне добраться до моего дома и
+отведать вкусного сыра!
+</string>
+    <string name="string_hint_catch">Я скоро сойду с ума!
+В доме напротив поселилась семья мышек, и мои окна выходят как раз на их дом. Они без конца подшучивают надо мной.
+Помоги мне наконец наказать их!
+Успей ткнуть на мышку и
+выручить меня!
+</string>
+    <string name="string_hint_pair">Я тут поспорил со своим соседом Воробеем, что смогу в точности запомнить все пары карточек и быстро
+восстановить пару-другую.
+Но, если честно, то я не совсем уверен в успехе, поэтому мне нужна твоя помощь.
+Найди пару каждой карточке, и тогда мы
+сможем побить этого зазнайку!</string>
+
+</resources>
